@@ -5,5 +5,5 @@ This is second  program for 3rd  commit
 ************************************************************
 
 ************************************************************
-  a = 700                                              # Added a=700 from Technobeginer account for ex2 pgm
-************************************************************
+  a = 500                                              # Added a=500 from sanjana account for ex2 pgm
+=======
